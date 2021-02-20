@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarray2d.a  CMakeFiles/array2d.dir/array2d.cpp.o
+/usr/bin/ranlib libarray2d.a

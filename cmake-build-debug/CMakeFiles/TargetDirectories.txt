@@ -1,0 +1,4 @@
+/home/ik/rogue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ik/rogue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ik/rogue/cmake-build-debug/CMakeFiles/rogue.dir
+/home/ik/rogue/cmake-build-debug/CMakeFiles/array2d.dir

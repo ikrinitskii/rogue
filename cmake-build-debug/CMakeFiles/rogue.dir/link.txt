@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rogue.dir/main.cpp.o  -o rogue  -lncurses libarray2d.a 

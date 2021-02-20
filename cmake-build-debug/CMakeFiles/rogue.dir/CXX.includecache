@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ik/rogue/array2d.hpp
+initializer_list
+-
+cstddef
+-
+string
+-
+
+/home/ik/rogue/main.cpp
+ncurses.h
+-
+array2d.hpp
+/home/ik/rogue/array2d.hpp
+vector
+-
+
